@@ -1,1 +1,1 @@
-# Custom-chat-bot
+# Custom Recipe genertor and Image Generator
